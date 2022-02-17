@@ -1,0 +1,32 @@
+body{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167, 153, 153);
+}
+
+span{
+    font-weight: bold;
+    color: yellow;
+}
+
+h1{
+    font-variant: small-caps;
+}
+
+p{
+    text-align: justify;
+}
+
+.container img{
+    margin: 20px;
+}
+
+a,a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    text-decoration: none;
+}
